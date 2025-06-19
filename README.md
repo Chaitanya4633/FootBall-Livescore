@@ -25,8 +25,6 @@ This is a simple and elegant **Cricket Live Score Website** that displays real-t
 
 ![Screenshot 2024-08-20 052106](https://github.com/user-attachments/assets/60b3c5a7-768b-4c06-acb9-8e28239a603d)
 
-![Screenshot 2024-08-21 224342](https://github.com/user-attachments/assets/d29bd582-bf7c-462c-b7f1-e666a7f19247)
-
 ![Screenshot 2024-08-22 061814](https://github.com/user-attachments/assets/5d0d6457-e016-48ba-9032-753f34b24eaf)
 
 ![Screenshot 2024-08-22 061913](https://github.com/user-attachments/assets/c4adae26-7523-47a1-8fad-7fdba72d1eaf)
