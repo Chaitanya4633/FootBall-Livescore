@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+**🏏 Cricket Live Score Website**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple and elegant **Cricket Live Score Website** that displays real-time or updated cricket match scores using clean UI and smooth design. Built with **HTML**, **CSS**, and optional **JavaScript**, it offers a fast and lightweight experience for cricket fans.
 
-## Available Scripts
+**🌟 Features**
 
-In the project directory, you can run:
+- 🟢 Live score display layout
+- 📋 Match summary and team names
+- 🎯 Responsive design for mobile & desktop
+- 🧭 Navigation bar for sections (e.g., Live, Upcoming, Results)
+- ⚡ Fast loading with minimal dependencies
 
-### `npm start`
+**📁 Tech Stack**
+- HTML5
+- CSS3
+- JavaScript (Optional for dynamic updates)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**🎥 Preview**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot 2024-08-19 213533](https://github.com/user-attachments/assets/9f65aa40-1073-490b-bae8-5509702dbe73)
 
-### `npm test`
+![Screenshot 2024-08-20 042519](https://github.com/user-attachments/assets/475bccc5-24c4-4494-8080-1329ae121957)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot 2024-08-20 042615](https://github.com/user-attachments/assets/9330a176-fbc8-41a4-85db-374b2c7d00bf)
 
-### `npm run build`
+![Screenshot 2024-08-20 052106](https://github.com/user-attachments/assets/60b3c5a7-768b-4c06-acb9-8e28239a603d)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot 2024-08-21 224342](https://github.com/user-attachments/assets/d29bd582-bf7c-462c-b7f1-e666a7f19247)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Screenshot 2024-08-22 061814](https://github.com/user-attachments/assets/5d0d6457-e016-48ba-9032-753f34b24eaf)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot 2024-08-22 061913](https://github.com/user-attachments/assets/c4adae26-7523-47a1-8fad-7fdba72d1eaf)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-08-22 061935](https://github.com/user-attachments/assets/26918eaf-55fe-4d36-afcf-9c943842ef19)
